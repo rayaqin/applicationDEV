@@ -16,10 +16,31 @@ namespace FishApp_Alpha
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
+
+
+            
+
+
+
+            
+
+
             SetContentView(Resource.Layout.Categories);
 
         }
+
+         
+
+
+
+
     }
+
+
+    
+
+
+
 }
 
 
