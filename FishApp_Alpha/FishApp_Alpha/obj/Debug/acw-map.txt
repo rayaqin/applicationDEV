@@ -1,0 +1,8 @@
+FishApp_Alpha.MainActivity, FishApp_Alpha;md537c672c66c50340e6715c40637064172.MainActivity
+FishApp_Alpha.MainActivity, FishApp_Alpha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md537c672c66c50340e6715c40637064172.MainActivity
+FishApp_Alpha.MainActivity;md537c672c66c50340e6715c40637064172.MainActivity
+fishapp_alpha.MainActivity;md537c672c66c50340e6715c40637064172.MainActivity
+FishApp_Alpha.Categories, FishApp_Alpha;md537c672c66c50340e6715c40637064172.Categories
+FishApp_Alpha.Categories, FishApp_Alpha, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md537c672c66c50340e6715c40637064172.Categories
+FishApp_Alpha.Categories;md537c672c66c50340e6715c40637064172.Categories
+fishapp_alpha.Categories;md537c672c66c50340e6715c40637064172.Categories
